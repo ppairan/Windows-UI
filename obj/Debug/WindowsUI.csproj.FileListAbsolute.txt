@@ -1,0 +1,14 @@
+C:\Users\ppair\source\repos\WindowsUI\bin\Debug\WindowsUI.exe.config
+C:\Users\ppair\source\repos\WindowsUI\bin\Debug\WindowsUI.exe
+C:\Users\ppair\source\repos\WindowsUI\bin\Debug\WindowsUI.pdb
+C:\Users\ppair\source\repos\WindowsUI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ppair\source\repos\WindowsUI\obj\Debug\WindowsUI.csprojAssemblyReference.cache
+C:\Users\ppair\source\repos\WindowsUI\obj\Debug\WindowsUI.Form1.resources
+C:\Users\ppair\source\repos\WindowsUI\obj\Debug\WindowsUI.Properties.Resources.resources
+C:\Users\ppair\source\repos\WindowsUI\obj\Debug\WindowsUI.csproj.GenerateResource.cache
+C:\Users\ppair\source\repos\WindowsUI\obj\Debug\WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\ppair\source\repos\WindowsUI\obj\Debug\WindowsUI.csproj.CopyComplete
+C:\Users\ppair\source\repos\WindowsUI\obj\Debug\WindowsUI.exe
+C:\Users\ppair\source\repos\WindowsUI\obj\Debug\WindowsUI.pdb
+C:\Users\ppair\source\repos\WindowsUI\obj\Debug\WindowsUI.Form2gaming.resources
+C:\Users\ppair\source\repos\WindowsUI\obj\Debug\WindowsUI.FormDashboard.resources
